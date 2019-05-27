@@ -303,7 +303,7 @@ new Chart(document.getElementById("myChart5"), {
           </div>
 		   
         <?php
-            $connect=mysqli_connect("localhost","root","","oto");
+            $connect=mysqli_connect("localhost","root","","bds");
 			mysqli_query($connect,"SET CHARACTER SET 'utf8'");
 			mysqli_query($connect,"SET SESSION collation_connection ='utf8_unicode_ci'");
 			
