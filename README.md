@@ -1,5 +1,5 @@
 # SunucuTabanli
-Sunucu tabanlı programlama
+Resimler bu kısımdadır.
 ![giris1](https://user-images.githubusercontent.com/36930580/58429058-46617380-80ad-11e9-910a-082528a88990.png)
 ![giris2](https://user-images.githubusercontent.com/36930580/58429063-482b3700-80ad-11e9-99d5-385ad601c6f2.png)
 ![giris3](https://user-images.githubusercontent.com/36930580/58429064-49f4fa80-80ad-11e9-828a-afa61e9c42e1.png)
